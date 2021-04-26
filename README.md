@@ -1,4 +1,4 @@
-# Exercise 1
+# Python Setup
 
 You can install jupyter-notebooks and the necessary python packages either using Anaconda 
 (https://www.anaconda.com/products/individual) or on a Linux-based operating system in the following way using virtual environments:
@@ -19,5 +19,3 @@ You can install jupyter-notebooks and the necessary python packages either using
 You can learn some more about python and numpy using the provided two notebooks 
 - Introduction to Python.ipynb
 - Introduction to NumPy.ipynb
-
-When you have worked on the tasks from sheet 1, stage and push your work to your repository. Create a pull request with the changes you made.
